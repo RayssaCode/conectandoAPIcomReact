@@ -1,4 +1,4 @@
-# ESTUDO DOS END POINTS - PROVA API
+# ESTUDO DOS END POINTS
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
